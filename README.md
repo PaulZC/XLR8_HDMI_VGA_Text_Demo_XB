@@ -1,15 +1,15 @@
 # XLR8 HDMI VGA Text Demo XB
 
-An XLR8 XB which will run on the Alorium Technology Snō board and produce simple VGA text demo over HDMI
+An XLR8 XB which will run on the Alorium Technology Snō board and produce a simple VGA text demo over HDMI
 
-![test_pattern.jpg](img/test_pattern.jpg)
+![test_pattern.gif](img/test_pattern.gif)
 
 ![hardware](img/hardware.jpg)
 
 ## Overview
 
 This Xcelerator Block will run on the [Alorium Technology Snō](https://www.mouser.co.uk/ProductDetail/Alorium/SnoR20M16V3/?qs=sGAEpiMZZMve4%2FbfQkoj%252bCt7XfrcUv5s%2FrtyQWYQt6w=)
-FPGA board and will produce simple VGA text demo over HDMI at 640x480 pixels (60Hz).
+FPGA board and will produce a simple VGA text demo over HDMI at 640x480 pixels (60Hz).
 
 The Verilog for the HDMI video, audio and VGA text generator is a remix of the HDL Utils written by Sameer Puri:
 - https://github.com/hdl-util
